@@ -56,3 +56,7 @@ table {
     font-family: 'Norse Bold';
     src: url('./assets/Norse-Bold.otf');
 }
+
+#image-intro {
+    background-image: url('./assets/viola-nekrasova-zBWPWkHzSJw-unsplash.jpg')
+}
