@@ -162,3 +162,19 @@ label {
     color: grey;
     margin: 10px 0;
 }
+
+input {
+    border: 1px solid #E5E7EB;
+    border-radius: 3px;
+}
+
+input[type="password"]:invalid {
+    outline: 1px solid red;
+    border-radius: 3px;
+
+}
+
+input:focus {
+    outline: .5px solid blue;
+    box-shadow: 5px 5px 10px grey;
+}
