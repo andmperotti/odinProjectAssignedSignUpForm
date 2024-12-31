@@ -73,5 +73,9 @@ body {
 }
 
 #image-intro {
-    background-image: url('./assets/viola-nekrasova-zBWPWkHzSJw-unsplash.jpg')
+    background-image: url('./assets/viola-nekrasova-zBWPWkHzSJw-unsplash.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
+
