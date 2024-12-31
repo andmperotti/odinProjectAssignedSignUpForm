@@ -82,6 +82,13 @@ body {
     justify-content: space-between;
 }
 
+#image-intro span {
+    color: white;
+}
+#image-intro span a {
+    color: white;
+}
+
 #banner {
     background-color: rgba(0 0 0 / .5);
     color: white;
