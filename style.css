@@ -77,9 +77,22 @@ body {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 #banner {
     background-color: rgba(0 0 0 / .5);
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5rem;
+    font-family: "Norse Bold";
+    margin-top: 30%;
+}
+
+#banner img {
+    width: 20%;
 }
