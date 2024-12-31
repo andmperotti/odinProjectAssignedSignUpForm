@@ -79,3 +79,7 @@ body {
     background-repeat: no-repeat;
 }
 
+#banner {
+    background-color: rgba(0 0 0 / .5);
+    color: white;
+}
