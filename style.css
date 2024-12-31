@@ -51,22 +51,12 @@ table {
 
 
 /* my css */
-/* layout styling */
 body {
     width: 100vw;
     height: 100vh;
     display: flex;
 }
 
-#image-intro {
-    width: 35%;
-}
-
-#content-container {
-    width: 65%;
-}
-
-/* other styling*/
 @font-face {
     font-family: 'Norse Bold';
     src: url('./assets/Norse-Bold.otf');
@@ -80,6 +70,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 35%;
 }
 
 #image-intro span {
@@ -103,4 +94,8 @@ body {
 
 #banner img {
     width: 20%;
+}
+
+#content-container {
+    width: 65%;
 }
