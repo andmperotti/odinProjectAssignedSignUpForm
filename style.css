@@ -51,3 +51,8 @@ table {
 
 
 /* my css */
+
+@font-face {
+    font-family: 'Norse Bold';
+    src: url('./assets/Norse-Bold.otf');
+}
